@@ -1,16 +1,16 @@
 {
-  "name": "OpenShift TTY.js",
+  "name": "openshift-tty.js",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "tty.js": "~0.2.13",
-    "express": "~3.4.0"
+    "tty.js": "~0.2.13"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": { "node": ">= 0.8.0" },
   "repository": "",
   "author": "",
   "license": "BSD"
